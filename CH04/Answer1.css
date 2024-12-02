@@ -1,0 +1,24 @@
+﻿body {
+    direction: rtl;
+    font-family: Tahoma;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#div1 {
+    background-color: whitesmoke;
+    direction: ltr;
+    font-size: 15px;
+}
+
+.doc {
+    color: #b80;
+}
+
+.tag {
+    color: green;
+    font-weight: bold;
+}
